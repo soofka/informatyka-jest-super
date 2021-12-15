@@ -1,0 +1,22 @@
+{
+  "name": "INFORMATYKA JEST SUPER",
+  "short_name": "INFORMATYKA JEST SUPER",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000131",
+  "theme_color": "#000131",
+  "description": "DUPA",
+  "icons": [{
+    "src": "https://avatars.githubusercontent.com/u/45885710?v=4",
+    "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "https://avatars.githubusercontent.com/u/45885710?v=4",
+    "sizes": "256x256",
+    "type": "image/png"
+  }, {
+    "src": "https://avatars.githubusercontent.com/u/45885710?v=4",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
