@@ -1,1 +1,1 @@
-alert("INFORMATYKA JEST SUPER");
+alert("DUPA");
